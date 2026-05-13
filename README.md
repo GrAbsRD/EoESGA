@@ -1,4 +1,4 @@
-# Code for the Paper Published in IEEE ACCESS
+# Code for the Paper *Even Order Explicit Symplectic Geometric Algorithms for Solving Quaternions in Guidance Navigation and Control via Diagonal Padé Approximation and Cayley Transform* Published in IEEE ACCESS
 - **Authors**: Hong-Yan Zhang, Fei Liu, Yu Zhou, Man Liang
 - **Title**: *Even Order Explicit Symplectic Geometric Algorithms for Solving Quaternions in Guidance Navigation and Control via Diagonal Padé Approximation and Cayley Transform*
 - **Journal**: *IEEE ACCESS*
